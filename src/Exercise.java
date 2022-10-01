@@ -3,6 +3,9 @@ public class Exercise {
     private int repCount;
     private int weight;
 
+    private int percentOfOnerepMax;
+
+    private int estimatedOneRepMax;
     public String getExerciseName() {
         return exerciseName;
     }
